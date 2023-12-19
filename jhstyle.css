@@ -1,0 +1,24 @@
+.gothic-font{font-family: 'Nanum Gothic', sans-serif; color:#000000; }
+body,h2,h3,h4,h5,h6,p{font-family: 'Nanum Gothic', sans-serif; color:#000000;}
+h1{font-family: 'Nanum Gothic', sans-serif; color:#ffffff;}
+body{background-color: #FFEFD5;}
+
+.nav-link:hover,
+.nav-link.active {color: #ffffff !important;}
+
+/* 헤더 영역 */
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(imagefile/cafe2.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+/* 서비스 섹션 */
+.card-hover:hover {
+    background-color: #FEEBB6;
+}
+
+footer{background-color:#FFDA6E ;}
+
+.table-hover-color{ background-color:#FEEBB6 ;}
